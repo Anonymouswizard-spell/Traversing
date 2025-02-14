@@ -3,6 +3,8 @@ using namespace std;
 int main()
 {
     int row,col;
+    cout<<"Enter rows and column respectivly";
+    // this ia a pattern of hollow polygon of 4 sides 
     
     cin>>row>>col;
 
